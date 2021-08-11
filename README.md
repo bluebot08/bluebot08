@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bluebot08
 - 👀 I’m interested in ...movies, music, and technology. 
-- 🌱 I’m currently learning ...full stack development
+- 🌱 I’m currently learning ...full-stack development and the Unity Engine
 - 💞️ I’m looking to collaborate on ...anything really.
 - 📫 How to reach me ...that's a secret for now.
 
