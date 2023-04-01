@@ -6,4 +6,4 @@
  - 👀 I’m interested in ...movies, music, games and technology. I would like to create websites that will improve people's enjoyment of these things. 
  - 🌱 I’m currently learning ...full-stack development and the Unity Engine
  - 💞️ I’m looking to collaborate on ...anything really.
- - 📫 How to reach me ...oneil.stefan@gmail.com would be the best way! Please reach out. 
+ - 📫 How to reach me ... oneil.stefan@gmail.com would be the best way! Please reach out. 
