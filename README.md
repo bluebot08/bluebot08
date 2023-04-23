@@ -1,7 +1,7 @@
 
 <!-- If you're using "main" as default branch -->
 
-Hi, I'm Stefan! 👋🏼
+Hi, I'm Stefan! 👋🏼 I'm a full-stack programmer. 
 
 After taking a year-long break to help raise my child 👶🏼, I'm excited to be back and ready to dive into my passions for movies 🎥, music 🎵, games 🎮, and technology 💻. I'm particularly interested in creating websites that enhance people's enjoyment of these areas.
 
