@@ -1,101 +1,171 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.gif" width="35px"> Hey there! I'm Stefan
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%2F+LLM+Enthusiast+%F0%9F%A4%96;Building+from+Tokyo+%F0%9F%97%BC;Creating+Magic+with+Code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=🎬%20THE%20STEFAN%20SHOW%20🎬&fontSize=50&fontAlignY=35&desc=Now%20Playing%20in%20Tokyo&descSize=20&descAlignY=55&animation=twinkling" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=600&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=800&lines=STARRING%3A+Full-Stack+Developer;FEATURING%3A+AI%2FLLM+Specialist;DIRECTED+BY%3A+Pure+Creativity;PRODUCED+IN%3A+Tokyo%2C+Japan;GENRE%3A+Action-Packed+Coding" alt="Typing SVG" />
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.gif" width="30px"> About Me
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
-
-- 🗾 **Location:** Living the tech life in Tokyo, Japan
-- 🚀 **Focus:** Building cutting-edge web apps with AI/LLM integration
-- 🧪 **Current Project:** Developing an AI-powered testing app that uses intelligent agents to validate media consistency
-- 🤖 **AI Experience:** OpenAI APIs, Local LLMs, and everything in between
-- 🎯 **Mission:** Making AI accessible and fun through creative applications
-
-<br clear="right"/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.gif" width="30px"> Tech Stack & Tools
-
 <div align="center">
-
-### 🧠 AI/LLM Technologies
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Local_LLMs-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
-</p>
-
-### 💻 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,nextjs" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,vercel,mongodb,postgresql" />
-</p>
-
+  <h1>🎞️ NOW SHOWING: STEFAN'S GREATEST HITS 🎞️</h1>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.gif" width="30px"> Featured Projects
+---
+
+## 🎭 OPENING CREDITS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 THE PROTAGONIST
+```yaml
+name: Stefan
+location: Tokyo, Japan 🗾
+role: Full-Stack Developer
+superpower: Making AI do incredible things
+catchphrase: "I'll be back... with better code"
+```
+
+### 🏆 AWARDS & ACHIEVEMENTS
+- 🥇 **Best AI Integration** - *The Code Academy Awards*
+- 🎯 **Most Creative LLM Implementation** - *Tokyo Tech Summit*
+- 🚀 **Speed Coding Champion** - *Async/Await Festival 2024*
+
+</td>
+<td width="50%">
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
   
-### 🎯 AI Media Testing Suite
-<img src="https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Powered-Yes-green?style=for-the-badge" />
+  ### 📽️ MOVIE RATINGS
+  ⭐⭐⭐⭐⭐ **"Absolutely mind-blowing!"** - *GitHub Daily*
+  
+  ⭐⭐⭐⭐⭐ **"A masterpiece of modern development"** - *Dev Weekly*
+  
+  ⭐⭐⭐⭐⭐ **"Must-follow developer!"** - *AI Chronicles*
+</div>
 
-> Using AI agents to revolutionize media consistency testing
-> 
-> **Tech:** OpenAI API • Local LLMs • Python • React
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖 More LLM Projects Coming Soon!
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.gif" width="30px"> GitHub Analytics
+## 🎬 FEATURED PRODUCTIONS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluebot08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluebot08&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1"/>
+
+### 🔥 EPISODE I: THE AI AWAKENS
+<img src="https://img.shields.io/badge/🎬_BLOCKBUSTER-AI_Media_Testing_Suite-FF0000?style=for-the-badge&labelColor=000000" />
+
+```javascript
+// THE PLOT TWIST: AI agents that think like movie critics!
+const aiAgent = new MovieConsistencyChecker({
+  intelligence: "MAXIMUM",
+  creativity: "UNLIMITED",
+  mission: "Test media like never before"
+});
+```
+
+<details>
+<summary>🍿 <b>CLICK FOR BEHIND THE SCENES</b> 🍿</summary>
+
+> *"Using cutting-edge AI to ensure your media is Oscar-worthy!"*
+> 
+> **Tech Stack:** OpenAI • Local LLMs • Python • React • Pure Magic ✨
+
+</details>
+
+### 🎯 COMING SOON TO THEATERS NEAR YOU
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="400">
+
+</div>
+
+---
+
+## 🎨 SPECIAL EFFECTS DEPARTMENT
+
+<div align="center">
+
+### 🪄 VISUAL EFFECTS (VFX)
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,nextjs,tailwind,threejs&theme=dark" />
+
+### 🤖 ARTIFICIAL INTELLIGENCE UNIT
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /><br>
+<b>Lead AI</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" /><br>
+<b>Chain Director</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Local_LLMs-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" /><br>
+<b>Stunt Double</b>
+</td>
+</tr>
+</table>
+
+### 🎭 PRODUCTION TOOLS
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,vercel,mongodb,postgresql,figma,ps&theme=dark" />
+
+</div>
+
+---
+
+## 📊 BOX OFFICE STATISTICS
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bluebot08&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FF0000" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bluebot08&theme=radical&hide_border=true&background=0D1117&stroke=FFD700&ring=FF0000&fire=FFD700&currStreakLabel=FFD700" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluebot08&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bluebot08&theme=redical&hide_border=true&bg_color=0D1117&color=FFD700&line=FF0000&point=FFFFFF" width="95%"/>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.gif" width="30px"> GitHub Metrics
+---
+
+## 🎪 THE STEFAN CINEMATIC UNIVERSE (SCU)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  
+  ### 🎟️ GET YOUR TICKETS HERE
+  
+  [![Email](https://img.shields.io/badge/📧_FAN_MAIL-oneil.stefan@gmail.com-FFD700?style=for-the-badge&labelColor=000000)](mailto:oneil.stefan@gmail.com)
+  
+  [![GitHub](https://img.shields.io/badge/🎬_FOLLOW_THE_SAGA-GitHub-FF0000?style=for-the-badge&labelColor=000000)](https://github.com/bluebot08)
+</div>
+
+---
+
+## 🏆 CRITICS' CHOICE METRICS
 
 ![Metrics](https://github.com/bluebot08/bluebot08/blob/main/github-metrics.svg)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.gif" width="30px"> Let's Connect!
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-oneil.stefan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oneil.stefan@gmail.com)
-  
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-  
-  **💬 Let's talk about AI, LLMs, or collaborate on something awesome!**
-  
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&animation=twinkling" />
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
   
-  <img src="https://komarev.com/ghpvc/?username=bluebot08&style=for-the-badge&color=6366F1" alt="Profile views" />
+  ### 🎬 POST-CREDITS SCENE
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=25&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=Stefan+will+return...;In+THE+NEXT+COMMIT!" alt="Typing SVG" />
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=bluebot08&style=for-the-badge&color=FFD700&label=THEATER+ADMISSIONS" alt="Profile views" />
+  
+  <br><br>
+  
+  **🍿 Don't forget to star the repo and grab your popcorn! 🍿**
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=twinkling" />
 </div>
